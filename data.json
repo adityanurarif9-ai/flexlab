@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "code": "/ugcproducthook",
+    "description": "UGC opening dengan produk langsung jadi hook",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Generate a photorealistic square product photograph to illustrate the creative prompt /ugcproducthook — UGC opening dengan produk langsung jadi hook. A creator's hand holds an unbranded amber skincare serum bottle very close to a smartphone camera, bright natural window light in a real home, the product immediately dominates the opening frame. Authentic candid smartphone look, tactile skin detail, softly blurred living room. No readable text, no watermark. One complete photograph, not a collage."
+  },
+  {
+    "id": 1,
+    "code": "/ugchandheld",
+    "description": "Handheld smartphone natural",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugchandheld — Handheld smartphone natural. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 2,
+    "code": "/ugctabletalk",
+    "description": "Produk di meja ala creator review",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugctabletalk — Produk di meja ala creator review. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 3,
+    "code": "/ugcfirstlook",
+    "description": "First impression produk",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugcfirstlook — First impression produk. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 4,
+    "code": "/ugccloseup",
+    "description": "Close-up produk ala UGC",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugccloseup — Close-up produk ala UGC. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 5,
+    "code": "/ugcreaction",
+    "description": "Reaction setelah melihat produk",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugcreaction — Reaction setelah melihat produk. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 6,
+    "code": "/ugcdemo",
+    "description": "Demonstrasi produk natural",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugcdemo — Demonstrasi produk natural. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 7,
+    "code": "/ugcbeforeafter",
+    "description": "Visual before-after",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugcbeforeafter — Visual before-after. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 8,
+    "code": "/ugcaesthetic",
+    "description": "UGC clean aesthetic",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugcaesthetic — UGC clean aesthetic. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 9,
+    "code": "/ugctiktok",
+    "description": "Gaya TikTok product video",
+    "category": "UGC & Creator Style",
+    "product": "botol serum skincare amber",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ugctiktok — Gaya TikTok product video. Category: UGC & Creator Style. Product subject: botol serum skincare amber. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 10,
+    "code": "/unboxing",
+    "description": "Classic unboxing",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /unboxing — Classic unboxing. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 11,
+    "code": "/slowunboxing",
+    "description": "Buka packaging secara slow cinematic",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /slowunboxing — Buka packaging secara slow cinematic. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 12,
+    "code": "/premiumunboxing",
+    "description": "Unboxing produk premium",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /premiumunboxing — Unboxing produk premium. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 13,
+    "code": "/povunboxing",
+    "description": "POV tangan membuka produk",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /povunboxing — POV tangan membuka produk. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 14,
+    "code": "/asmrunboxing",
+    "description": "Unboxing fokus detail dan ASMR visual",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /asmrunboxing — Unboxing fokus detail dan ASMR visual. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 15,
+    "code": "/darkunboxing",
+    "description": "Dark luxury unboxing",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /darkunboxing — Dark luxury unboxing. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 16,
+    "code": "/sunlightunboxing",
+    "description": "Natural sunlight unboxing",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /sunlightunboxing — Natural sunlight unboxing. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 17,
+    "code": "/surpriseunboxing",
+    "description": "Reveal produk sebagai kejutan",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /surpriseunboxing — Reveal produk sebagai kejutan. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 18,
+    "code": "/minimalunboxing",
+    "description": "Clean minimalist unboxing",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /minimalunboxing — Clean minimalist unboxing. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 19,
+    "code": "/macroboxopen",
+    "description": "Macro shot packaging terbuka",
+    "category": "Unboxing",
+    "product": "kemasan parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /macroboxopen — Macro shot packaging terbuka. Category: Unboxing. Product subject: kemasan parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 20,
+    "code": "/smokereveal",
+    "description": "Produk muncul dari asap",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /smokereveal — Produk muncul dari asap. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 21,
+    "code": "/lightreveal",
+    "description": "Muncul dari kilatan cahaya",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /lightreveal — Muncul dari kilatan cahaya. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 22,
+    "code": "/shadowreveal",
+    "description": "Reveal dari bayangan",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /shadowreveal — Reveal dari bayangan. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 23,
+    "code": "/curtainreveal",
+    "description": "Cinematic curtain reveal",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /curtainreveal — Cinematic curtain reveal. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 24,
+    "code": "/flashreveal",
+    "description": "Flash transition ke produk",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /flashreveal — Flash transition ke produk. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 25,
+    "code": "/darkreveal",
+    "description": "Muncul dari background gelap",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /darkreveal — Muncul dari background gelap. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 26,
+    "code": "/silhouettereveal",
+    "description": "Silhouette lalu produk terlihat",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /silhouettereveal — Silhouette lalu produk terlihat. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 27,
+    "code": "/spotlightreveal",
+    "description": "Spotlight perlahan menyala",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /spotlightreveal — Spotlight perlahan menyala. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 28,
+    "code": "/blurreveal",
+    "description": "Blur to sharp product reveal",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /blurreveal — Blur to sharp product reveal. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 29,
+    "code": "/glassreveal",
+    "description": "Reveal melalui kaca atau reflection",
+    "category": "Product Reveal",
+    "product": "botol parfum kaca",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /glassreveal — Reveal melalui kaca atau reflection. Category: Product Reveal. Product subject: botol parfum kaca. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 30,
+    "code": "/orbitshot",
+    "description": "Kamera muter mengelilingi produk",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /orbitshot — Kamera muter mengelilingi produk. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 31,
+    "code": "/360product",
+    "description": "Full 360 degree product rotation",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /360product — Full 360 degree product rotation. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 32,
+    "code": "/slowpushin",
+    "description": "Kamera perlahan mendekat",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /slowpushin — Kamera perlahan mendekat. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 33,
+    "code": "/pullout",
+    "description": "Kamera mundur reveal environment",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /pullout — Kamera mundur reveal environment. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 34,
+    "code": "/slideright",
+    "description": "Cinematic slide kanan",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /slideright — Cinematic slide kanan. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 35,
+    "code": "/slideleft",
+    "description": "Cinematic slide kiri",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /slideleft — Cinematic slide kiri. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 36,
+    "code": "/topdown",
+    "description": "Kamera dari atas",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /topdown — Kamera dari atas. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 37,
+    "code": "/lowangle",
+    "description": "Dramatic low-angle product shot",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /lowangle — Dramatic low-angle product shot. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 38,
+    "code": "/dutchangle",
+    "description": "Dynamic tilted camera",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /dutchangle — Dynamic tilted camera. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 39,
+    "code": "/parallax",
+    "description": "Efek depth atau parallax dari foto",
+    "category": "Camera Movement",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /parallax — Efek depth atau parallax dari foto. Category: Camera Movement. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 40,
+    "code": "/cinematicproduct",
+    "description": "Cinematic commercial look",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cinematicproduct — Cinematic commercial look. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 41,
+    "code": "/movieproduct",
+    "description": "Produk seperti movie scene",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /movieproduct — Produk seperti movie scene. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 42,
+    "code": "/anamorphic",
+    "description": "Anamorphic cinematic lens",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /anamorphic — Anamorphic cinematic lens. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 43,
+    "code": "/filmlook",
+    "description": "Analog film commercial",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /filmlook — Analog film commercial. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 44,
+    "code": "/35mmproduct",
+    "description": "35mm photography movement",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /35mmproduct — 35mm photography movement. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 45,
+    "code": "/50mmproduct",
+    "description": "Premium 50mm lens look",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /50mmproduct — Premium 50mm lens look. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 46,
+    "code": "/85mmproduct",
+    "description": "Luxury shallow depth of field",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /85mmproduct — Luxury shallow depth of field. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 47,
+    "code": "/cinematicrackfocus",
+    "description": "Rack focus foreground ke product",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cinematicrackfocus — Rack focus foreground ke product. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 48,
+    "code": "/cinematicpan",
+    "description": "Slow cinematic pan",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cinematicpan — Slow cinematic pan. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 49,
+    "code": "/heroangle",
+    "description": "Hero product shot",
+    "category": "Cinematic",
+    "product": "kamera mirrorless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /heroangle — Hero product shot. Category: Cinematic. Product subject: kamera mirrorless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 50,
+    "code": "/luxuryproduct",
+    "description": "Luxury commercial",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /luxuryproduct — Luxury commercial. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 51,
+    "code": "/quietluxury",
+    "description": "Minimal quiet luxury aesthetic",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /quietluxury — Minimal quiet luxury aesthetic. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 52,
+    "code": "/blackgold",
+    "description": "Black and gold premium scene",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /blackgold — Black and gold premium scene. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 53,
+    "code": "/marblereveal",
+    "description": "Product on luxury marble",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /marblereveal — Product on luxury marble. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 54,
+    "code": "/luxuryspotlight",
+    "description": "Dramatic luxury spotlight",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /luxuryspotlight — Dramatic luxury spotlight. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 55,
+    "code": "/jewelrylighting",
+    "description": "Lighting ala iklan perhiasan",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /jewelrylighting — Lighting ala iklan perhiasan. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 56,
+    "code": "/premiumstudio",
+    "description": "High-end studio commercial",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /premiumstudio — High-end studio commercial. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 57,
+    "code": "/luxuryreflection",
+    "description": "Reflective luxury floor",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /luxuryreflection — Reflective luxury floor. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 58,
+    "code": "/velvetreveal",
+    "description": "Produk di atas kain velvet",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /velvetreveal — Produk di atas kain velvet. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 59,
+    "code": "/luxuryrotate",
+    "description": "Slow elegant product rotation",
+    "category": "Luxury & Premium",
+    "product": "botol parfum premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /luxuryrotate — Slow elegant product rotation. Category: Luxury & Premium. Product subject: botol parfum premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 60,
+    "code": "/fastcutads",
+    "description": "Fast-cut performance ad",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /fastcutads — Fast-cut performance ad. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 61,
+    "code": "/scrollstopper",
+    "description": "Opening yang dibuat stop scroll",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /scrollstopper — Opening yang dibuat stop scroll. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 62,
+    "code": "/3secondhook",
+    "description": "Strong first 3 seconds",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /3secondhook — Strong first 3 seconds. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 63,
+    "code": "/rapidzoom",
+    "description": "Rapid zoom ke produk",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /rapidzoom — Rapid zoom ke produk. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 64,
+    "code": "/snaptransition",
+    "description": "Snap transition cepat",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /snaptransition — Snap transition cepat. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 65,
+    "code": "/quickreveal",
+    "description": "Reveal produk super cepat",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /quickreveal — Reveal produk super cepat. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 66,
+    "code": "/punchin",
+    "description": "Aggressive punch-in camera",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /punchin — Aggressive punch-in camera. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 67,
+    "code": "/speedramp",
+    "description": "Speed-ramp product motion",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /speedramp — Speed-ramp product motion. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 68,
+    "code": "/whiptransition",
+    "description": "Whip-pan transition",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /whiptransition — Whip-pan transition. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 69,
+    "code": "/viralproduct",
+    "description": "Visual ala viral short-form ads",
+    "category": "Fast Ads",
+    "product": "kaleng minuman buah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /viralproduct — Visual ala viral short-form ads. Category: Fast Ads. Product subject: kaleng minuman buah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 70,
+    "code": "/skincarecommercial",
+    "description": "Skincare beauty ad",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /skincarecommercial — Skincare beauty ad. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 71,
+    "code": "/serumdrop",
+    "description": "Serum atau liquid menetes cinematic",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /serumdrop — Serum atau liquid menetes cinematic. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 72,
+    "code": "/waterbeauty",
+    "description": "Splash air beauty commercial",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /waterbeauty — Splash air beauty commercial. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 73,
+    "code": "/glassskincare",
+    "description": "Skincare di atas reflective glass",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /glassskincare — Skincare di atas reflective glass. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 74,
+    "code": "/cleanbeauty",
+    "description": "Clean white beauty aesthetic",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cleanbeauty — Clean white beauty aesthetic. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 75,
+    "code": "/softbeauty",
+    "description": "Soft diffused beauty lighting",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /softbeauty — Soft diffused beauty lighting. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 76,
+    "code": "/glowproduct",
+    "description": "Glowing skincare product",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /glowproduct — Glowing skincare product. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 77,
+    "code": "/bathroombeauty",
+    "description": "Produk dalam premium bathroom",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /bathroombeauty — Produk dalam premium bathroom. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 78,
+    "code": "/dewyeffect",
+    "description": "Droplets dan fresh dewy feel",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /dewyeffect — Droplets dan fresh dewy feel. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 79,
+    "code": "/ingredientreveal",
+    "description": "Ingredients mengelilingi produk",
+    "category": "Beauty & Skincare",
+    "product": "botol serum skincare",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ingredientreveal — Ingredients mengelilingi produk. Category: Beauty & Skincare. Product subject: botol serum skincare. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 80,
+    "code": "/foodcommercial",
+    "description": "Food advertising cinematic",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /foodcommercial — Food advertising cinematic. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 81,
+    "code": "/drinksplash",
+    "description": "Minuman dengan splash dramatis",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /drinksplash — Minuman dengan splash dramatis. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 82,
+    "code": "/iceburst",
+    "description": "Produk dengan pecahan es",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /iceburst — Produk dengan pecahan es. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 83,
+    "code": "/pourshot",
+    "description": "Liquid pouring cinematic",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /pourshot — Liquid pouring cinematic. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 84,
+    "code": "/steamfood",
+    "description": "Makanan dengan steam natural",
+    "category": "Food & Beverage",
+    "product": "semangkuk mi panas dengan uap alami",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /steamfood — Makanan dengan steam natural. Category: Food & Beverage. Product subject: semangkuk mi panas dengan uap alami. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 85,
+    "code": "/crispycloseup",
+    "description": "Close-up texture makanan",
+    "category": "Food & Beverage",
+    "product": "ayam goreng crispy dengan tekstur tepung renyah",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /crispycloseup — Close-up texture makanan. Category: Food & Beverage. Product subject: ayam goreng crispy dengan tekstur tepung renyah. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 86,
+    "code": "/freshingredients",
+    "description": "Ingredient masuk mengelilingi produk",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /freshingredients — Ingredient masuk mengelilingi produk. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 87,
+    "code": "/slowmofood",
+    "description": "Food slow motion",
+    "category": "Food & Beverage",
+    "product": "burger dengan bahan makanan melayang dalam slow motion",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /slowmofood — Food slow motion. Category: Food & Beverage. Product subject: burger dengan bahan makanan melayang dalam slow motion. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 88,
+    "code": "/tabletopfood",
+    "description": "Commercial tabletop setup",
+    "category": "Food & Beverage",
+    "product": "sepiring pasta dalam penataan meja iklan makanan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /tabletopfood — Commercial tabletop setup. Category: Food & Beverage. Product subject: sepiring pasta dalam penataan meja iklan makanan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 89,
+    "code": "/floatingfood",
+    "description": "Bahan makanan melayang cinematic",
+    "category": "Food & Beverage",
+    "product": "minuman jeruk dingin",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingfood — Bahan makanan melayang cinematic. Category: Food & Beverage. Product subject: minuman jeruk dingin. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 90,
+    "code": "/techreveal",
+    "description": "Futuristic gadget reveal",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /techreveal — Futuristic gadget reveal. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 91,
+    "code": "/neontech",
+    "description": "Neon cyber product commercial",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /neontech — Neon cyber product commercial. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 92,
+    "code": "/gadgetrotate",
+    "description": "Gadget 360 rotation",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /gadgetrotate — Gadget 360 rotation. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 93,
+    "code": "/screenreveal",
+    "description": "Layar device menyala",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /screenreveal — Layar device menyala. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 94,
+    "code": "/darktech",
+    "description": "Premium dark technology commercial",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /darktech — Premium dark technology commercial. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 95,
+    "code": "/blueprinttech",
+    "description": "Blueprint elements muncul",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /blueprinttech — Blueprint elements muncul. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 96,
+    "code": "/futuristicproduct",
+    "description": "Futuristic showroom scene",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /futuristicproduct — Futuristic showroom scene. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 97,
+    "code": "/techmacro",
+    "description": "Macro detail gadget",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /techmacro — Macro detail gadget. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 98,
+    "code": "/charginganimation",
+    "description": "Charging-energy visual",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /charginganimation — Charging-energy visual. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 99,
+    "code": "/cyberorbit",
+    "description": "Cyber camera orbit",
+    "category": "Tech & Gadget",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cyberorbit — Cyber camera orbit. Category: Tech & Gadget. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 100,
+    "code": "/fashionproduct",
+    "description": "Fashion editorial commercial",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /fashionproduct — Fashion editorial commercial. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 101,
+    "code": "/streetwearreveal",
+    "description": "Streetwear dynamic reveal",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /streetwearreveal — Streetwear dynamic reveal. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 102,
+    "code": "/fabricmotion",
+    "description": "Kain bergerak cinematic",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /fabricmotion — Kain bergerak cinematic. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 103,
+    "code": "/shoerotation",
+    "description": "Sepatu rotating hero shot",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /shoerotation — Sepatu rotating hero shot. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 104,
+    "code": "/shoestomp",
+    "description": "Shoe impact atau stomp reveal",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /shoestomp — Shoe impact atau stomp reveal. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 105,
+    "code": "/bagluxury",
+    "description": "Luxury handbag commercial",
+    "category": "Fashion",
+    "product": "tas tangan kulit premium",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /bagluxury — Luxury handbag commercial. Category: Fashion. Product subject: tas tangan kulit premium. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 106,
+    "code": "/fashionstudio",
+    "description": "Clean fashion studio shot",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /fashionstudio — Clean fashion studio shot. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 107,
+    "code": "/runwayproduct",
+    "description": "Product ala fashion runway",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /runwayproduct — Product ala fashion runway. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 108,
+    "code": "/floatingfashion",
+    "description": "Fashion item melayang",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingfashion — Fashion item melayang. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 109,
+    "code": "/editorialproduct",
+    "description": "Magazine editorial motion",
+    "category": "Fashion",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /editorialproduct — Magazine editorial motion. Category: Fashion. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 110,
+    "code": "/perfumereveal",
+    "description": "Luxury perfume reveal",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /perfumereveal — Luxury perfume reveal. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 111,
+    "code": "/mistperfume",
+    "description": "Perfume dengan kabut tipis",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /mistperfume — Perfume dengan kabut tipis. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 112,
+    "code": "/flowerperfume",
+    "description": "Bunga bergerak mengelilingi botol",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /flowerperfume — Bunga bergerak mengelilingi botol. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 113,
+    "code": "/darkperfume",
+    "description": "Dark seductive perfume commercial",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /darkperfume — Dark seductive perfume commercial. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 114,
+    "code": "/waterperfume",
+    "description": "Perfume dengan ripple air",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /waterperfume — Perfume dengan ripple air. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 115,
+    "code": "/goldperfume",
+    "description": "Gold light luxury perfume",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /goldperfume — Gold light luxury perfume. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 116,
+    "code": "/smokeperfume",
+    "description": "Smoke flowing around bottle",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /smokeperfume — Smoke flowing around bottle. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 117,
+    "code": "/macroperfume",
+    "description": "Close-up detail botol",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /macroperfume — Close-up detail botol. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 118,
+    "code": "/mirrorperfume",
+    "description": "Mirror reflection commercial",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /mirrorperfume — Mirror reflection commercial. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 119,
+    "code": "/floatingperfume",
+    "description": "Perfume floating gracefully",
+    "category": "Perfume",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingperfume — Perfume floating gracefully. Category: Perfume. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 120,
+    "code": "/explosionreveal",
+    "description": "Cinematic explosion behind product",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /explosionreveal — Cinematic explosion behind product. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 121,
+    "code": "/particleburst",
+    "description": "Particle burst reveal",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /particleburst — Particle burst reveal. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 122,
+    "code": "/energywave",
+    "description": "Energy wave melewati produk",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /energywave — Energy wave melewati produk. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 123,
+    "code": "/electricreveal",
+    "description": "Electric sparks reveal",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /electricreveal — Electric sparks reveal. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 124,
+    "code": "/fireproduct",
+    "description": "Cinematic flames around product",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /fireproduct — Cinematic flames around product. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 125,
+    "code": "/waterburst",
+    "description": "Water burst around product",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /waterburst — Water burst around product. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 126,
+    "code": "/dustreveal",
+    "description": "Dramatic dust reveal",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /dustreveal — Dramatic dust reveal. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 127,
+    "code": "/sandblast",
+    "description": "Sand motion reveal",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /sandblast — Sand motion reveal. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 128,
+    "code": "/crystalburst",
+    "description": "Crystal fragments cinematic",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /crystalburst — Crystal fragments cinematic. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 129,
+    "code": "/lightningproduct",
+    "description": "Lightning energy effect",
+    "category": "Dynamic VFX",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /lightningproduct — Lightning energy effect. Category: Dynamic VFX. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 130,
+    "code": "/floatingproduct",
+    "description": "Produk melayang",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingproduct — Produk melayang. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 131,
+    "code": "/levitation",
+    "description": "Premium levitation shot",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /levitation — Premium levitation shot. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 132,
+    "code": "/zerogravity",
+    "description": "Zero-gravity commercial",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /zerogravity — Zero-gravity commercial. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 133,
+    "code": "/floatingingredients",
+    "description": "Ingredients melayang",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingingredients — Ingredients melayang. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 134,
+    "code": "/floatingparts",
+    "description": "Bagian produk terpisah melayang",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingparts — Bagian produk terpisah melayang. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 135,
+    "code": "/magneticproduct",
+    "description": "Magnetic floating effect",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /magneticproduct — Magnetic floating effect. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 136,
+    "code": "/weightlessproduct",
+    "description": "Smooth weightless motion",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /weightlessproduct — Smooth weightless motion. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 137,
+    "code": "/hoverrotate",
+    "description": "Hover sekaligus rotating",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /hoverrotate — Hover sekaligus rotating. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 138,
+    "code": "/floatingplatform",
+    "description": "Platform melayang",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /floatingplatform — Platform melayang. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 139,
+    "code": "/airborneproduct",
+    "description": "Produk terbang masuk frame",
+    "category": "Floating & Levitation",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /airborneproduct — Produk terbang masuk frame. Category: Floating & Levitation. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 140,
+    "code": "/producttransform",
+    "description": "Product transformation animation",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /producttransform — Product transformation animation. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 141,
+    "code": "/packagingtoproduct",
+    "description": "Packaging berubah jadi produk",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /packagingtoproduct — Packaging berubah jadi produk. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 142,
+    "code": "/ingredienttoproduct",
+    "description": "Ingredient menyatu jadi produk",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /ingredienttoproduct — Ingredient menyatu jadi produk. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 143,
+    "code": "/liquidtransform",
+    "description": "Liquid berubah jadi product",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /liquidtransform — Liquid berubah jadi product. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 144,
+    "code": "/smoketransform",
+    "description": "Smoke berubah jadi product",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /smoketransform — Smoke berubah jadi product. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 145,
+    "code": "/particletransform",
+    "description": "Particles membentuk product",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /particletransform — Particles membentuk product. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 146,
+    "code": "/sketchto3d",
+    "description": "Sketch berubah jadi product realistis",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /sketchto3d — Sketch berubah jadi product realistis. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 147,
+    "code": "/wireframetoproduct",
+    "description": "Wireframe ke final product",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /wireframetoproduct — Wireframe ke final product. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 148,
+    "code": "/colortransform",
+    "description": "Dramatic color transformation",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /colortransform — Dramatic color transformation. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 149,
+    "code": "/materialize",
+    "description": "Produk materialize dari udara",
+    "category": "Transformation",
+    "product": "headphone wireless",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /materialize — Produk materialize dari udara. Category: Transformation. Product subject: headphone wireless. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 150,
+    "code": "/lifestyleproduct",
+    "description": "Produk di real-life environment",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /lifestyleproduct — Produk di real-life environment. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 151,
+    "code": "/morningroutine",
+    "description": "Morning routine product placement",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /morningroutine — Morning routine product placement. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 152,
+    "code": "/desksetup",
+    "description": "Modern desk setup",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /desksetup — Modern desk setup. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 153,
+    "code": "/coffeetable",
+    "description": "Cozy coffee-table aesthetic",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /coffeetable — Cozy coffee-table aesthetic. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 154,
+    "code": "/bedroomproduct",
+    "description": "Aesthetic bedroom product shot",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /bedroomproduct — Aesthetic bedroom product shot. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 155,
+    "code": "/travelproduct",
+    "description": "Produk dalam travel setting",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /travelproduct — Produk dalam travel setting. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 156,
+    "code": "/outdoorproduct",
+    "description": "Cinematic outdoor placement",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /outdoorproduct — Cinematic outdoor placement. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 157,
+    "code": "/gymproduct",
+    "description": "Energetic gym environment",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /gymproduct — Energetic gym environment. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 158,
+    "code": "/workspaceproduct",
+    "description": "Professional workspace scene",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /workspaceproduct — Professional workspace scene. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 159,
+    "code": "/dailyuse",
+    "description": "Everyday-use product video",
+    "category": "Lifestyle",
+    "product": "tumbler",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /dailyuse — Everyday-use product video. Category: Lifestyle. Product subject: tumbler. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 160,
+    "code": "/minimalproduct",
+    "description": "Simple clean product commercial",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /minimalproduct — Simple clean product commercial. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 161,
+    "code": "/whitebackground",
+    "description": "Pure white studio motion",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /whitebackground — Pure white studio motion. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 162,
+    "code": "/beigeminimal",
+    "description": "Warm beige aesthetic",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /beigeminimal — Warm beige aesthetic. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 163,
+    "code": "/monochrome",
+    "description": "Monochrome premium scene",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /monochrome — Monochrome premium scene. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 164,
+    "code": "/softshadow",
+    "description": "Soft moving shadow",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /softshadow — Soft moving shadow. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 165,
+    "code": "/cleanrotate",
+    "description": "Clean studio rotation",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /cleanrotate — Clean studio rotation. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 166,
+    "code": "/minimalorbit",
+    "description": "Subtle orbit camera",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /minimalorbit — Subtle orbit camera. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 167,
+    "code": "/architecturalshadow",
+    "description": "Moving architectural light atau shadow",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /architecturalshadow — Moving architectural light atau shadow. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 168,
+    "code": "/softgradient",
+    "description": "Premium gradient background",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /softgradient — Premium gradient background. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 169,
+    "code": "/museumdisplay",
+    "description": "Product seperti museum object",
+    "category": "Minimalist",
+    "product": "botol parfum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /museumdisplay — Product seperti museum object. Category: Minimalist. Product subject: botol parfum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 170,
+    "code": "/macroproduct",
+    "description": "Extreme macro product details",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /macroproduct — Extreme macro product details. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 171,
+    "code": "/texturecloseup",
+    "description": "Fokus texture produk",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /texturecloseup — Fokus texture produk. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 172,
+    "code": "/logozoom",
+    "description": "Camera push ke logo",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /logozoom — Camera push ke logo. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 173,
+    "code": "/materialdetail",
+    "description": "Showcase material quality",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /materialdetail — Showcase material quality. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 174,
+    "code": "/edgehighlight",
+    "description": "Lighting mengikuti edge produk",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /edgehighlight — Lighting mengikuti edge produk. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 175,
+    "code": "/macrotracking",
+    "description": "Tracking across details",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /macrotracking — Tracking across details. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 176,
+    "code": "/buttonmacro",
+    "description": "Macro tombol atau detail kecil",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /buttonmacro — Macro tombol atau detail kecil. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 177,
+    "code": "/surfaceglide",
+    "description": "Camera glide di permukaan",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /surfaceglide — Camera glide di permukaan. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 178,
+    "code": "/microreflection",
+    "description": "Micro reflection cinematic",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /microreflection — Micro reflection cinematic. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 179,
+    "code": "/detailsequence",
+    "description": "Sequence beberapa detail produk",
+    "category": "Macro & Detail",
+    "product": "jam tangan",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /detailsequence — Sequence beberapa detail produk. Category: Macro & Detail. Product subject: jam tangan. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 180,
+    "code": "/productbenefit",
+    "description": "Visual menonjolkan benefit utama",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /productbenefit — Visual menonjolkan benefit utama. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 181,
+    "code": "/problemsolution",
+    "description": "Problem ke product solution",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /problemsolution — Problem ke product solution. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 182,
+    "code": "/featurehighlight",
+    "description": "Highlight fitur produk",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /featurehighlight — Highlight fitur produk. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 183,
+    "code": "/bestseller",
+    "description": "Bestseller hero video",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /bestseller — Bestseller hero video. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 184,
+    "code": "/newarrival",
+    "description": "New arrival reveal",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /newarrival — New arrival reveal. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 185,
+    "code": "/limitedstock",
+    "description": "Urgency visual",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /limitedstock — Urgency visual. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 186,
+    "code": "/saleproduct",
+    "description": "Energetic sale creative",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /saleproduct — Energetic sale creative. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 187,
+    "code": "/testimonialvisual",
+    "description": "Testimonial-style product motion",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /testimonialvisual — Testimonial-style product motion. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 188,
+    "code": "/comparisonvideo",
+    "description": "Product vs alternative",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /comparisonvideo — Product vs alternative. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 189,
+    "code": "/whybuythis",
+    "description": "Visual alasan membeli produk",
+    "category": "E-Commerce Ads",
+    "product": "botol serum",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /whybuythis — Visual alasan membeli produk. Category: E-Commerce Ads. Product subject: botol serum. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 190,
+    "code": "/tinyworld",
+    "description": "Produk jadi dunia miniatur",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /tinyworld — Produk jadi dunia miniatur. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 191,
+    "code": "/giantproduct",
+    "description": "Produk raksasa di dunia nyata",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /giantproduct — Produk raksasa di dunia nyata. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 192,
+    "code": "/productportal",
+    "description": "Produk keluar dari portal",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /productportal — Produk keluar dari portal. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 193,
+    "code": "/productclone",
+    "description": "Satu produk menjadi banyak",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /productclone — Satu produk menjadi banyak. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 194,
+    "code": "/infinitezoom",
+    "description": "Infinite zoom menuju produk",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /infinitezoom — Infinite zoom menuju produk. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 195,
+    "code": "/productdrop",
+    "description": "Produk jatuh dramatic lalu berhenti",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /productdrop — Produk jatuh dramatic lalu berhenti. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 196,
+    "code": "/freezetime",
+    "description": "Lingkungan freeze, produk bergerak",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /freezetime — Lingkungan freeze, produk bergerak. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 197,
+    "code": "/worldtransition",
+    "description": "Dunia berubah mengikuti produk",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /worldtransition — Dunia berubah mengikuti produk. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 198,
+    "code": "/impossiblecamera",
+    "description": "Impossible cinematic camera movement",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /impossiblecamera — Impossible cinematic camera movement. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  },
+  {
+    "id": 199,
+    "code": "/viralreveal",
+    "description": "High-impact viral final reveal",
+    "category": "Experimental / Viral",
+    "product": "sepatu sneaker",
+    "generationPrompt": "Use case: product-mockup. Asset type: a single square photorealistic product image illustrating one creative preset in a prompt gallery. Creative preset: /viralreveal — High-impact viral final reveal. Category: Experimental / Viral. Product subject: sepatu sneaker. Depict this exact visual direction faithfully as a compelling still keyframe from a product commercial. When the preset describes motion or a transition, choose the most illustrative frozen instant; use subtle motion cues only as appropriate. Appropriate setting, professional lighting, believable textures and composition specific to the named direction. Use an unbranded example product. No readable text, no typography, no watermark, no UI, no collage. One complete photograph."
+  }
+]

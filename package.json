@@ -1,0 +1,10 @@
+{
+  "name": "flexlab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Galeri 200 prompt kreatif produk dengan contoh gambar AI.",
+  "scripts": {
+    "start": "node serve.mjs",
+    "check": "node --check app.js"
+  }
+}
