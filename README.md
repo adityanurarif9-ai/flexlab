@@ -1,6 +1,6 @@
 # FlexLab — Photo Motion Studio
 
-Upload foto produk, pilih gerakannya, lalu unduh gambar atau video. Tema biru, editor responsif, dan galeri 200 prompt tetap tersedia sebagai inspirasi.
+Upload foto produk, pilih gerakannya, lalu unduh gambar atau video. Identitas logo FLEXLab dengan palet biru dan grafit, tema terang/gelap, editor responsif, dan galeri 200 prompt sebagai inspirasi. Pilihan tema tersimpan di browser dan konsisten antara studio dan galeri.
 
 ## Menjalankan
 
@@ -29,7 +29,7 @@ Di PowerShell, gunakan `npm.cmd start` jika `npm.ps1` dibatasi. Buka http://127.
 
 **Gambar:** PNG dari posisi timeline saat ini, dengan teks dan efek yang terlihat, pada resolusi yang dipilih.
 
-**Video:** rekaman canvas menggunakan MediaRecorder. MP4 dipilih jika didukung encoder browser, dengan WebM sebagai alternatif. Format yang tersedia ditampilkan sebelum render. Musik disertakan hanya saat ekspor video. Browser tanpa captureStream atau encoder yang didukung tetap bisa mengekspor PNG.
+**Video:** rekaman canvas menggunakan MediaRecorder. MP4 dipilih jika didukung encoder browser, dengan WebM sebagai alternatif. Format yang tersedia ditampilkan sebelum render. Bila encoder pertama gagal atau menghasilkan rekaman kosong, studio mencoba satu format alternatif yang didukung browser. Proses render dapat berlangsung dua kali durasi video bila percobaan ulang diperlukan. Durasi hasil dapat sedikit berbeda sesuai encoder browser. Rekaman kosong, terlalu pendek, atau tidak dapat diputar tidak ditawarkan sebagai unduhan yang selesai. Musik disertakan hanya saat ekspor video. Browser tanpa captureStream atau encoder yang didukung tetap bisa mengekspor PNG.
 
 Render video berjalan selama durasi video. Tetap buka tab sampai selesai. Render dibatalkan bila tab disembunyikan, untuk menghindari rekaman yang tersendat. Pengguna juga bisa membatalkan render lewat tombol. Jika perangkat lambat, pilih 720p.
 
@@ -50,12 +50,14 @@ npm run check
 npm test
 ```
 
-Pengujian otomatis memeriksa dimensi output, batas gerakan, intensitas nol, pengaturan tersimpan, pemilihan format video, dan pemetaan preset. Pengujian browser juga dilakukan untuk upload, unduhan PNG dan MP4, musik, Full HD, pembatalan, simpan/muat pengaturan, serta layout HP dan desktop.
+Pengujian otomatis memeriksa dimensi output, batas gerakan, intensitas nol, pengaturan tersimpan, pemilihan format video, pemetaan preset, dan penolakan rekaman satu frame atau terlalu pendek. Pengujian browser juga dilakukan untuk upload, unduhan PNG dan MP4, musik, Full HD, pembatalan, simpan/muat pengaturan, serta layout HP dan desktop.
 
 ## Struktur
 
 - `index.html`, `style.css`, `app.js`: studio dan interaksi.
 - `engine.mjs`: komposisi canvas, gerakan, efek, dan validasi pengaturan.
+- `brand.css`, `brand.js`: identitas biru/grafit dan pilihan tema terang/gelap.
+- `assets/`: logo PNG asli dari pemilik proyek serta tampilan simbol dan favicon berbasis logo tersebut.
 - `gallery.html`, `gallery.css`, `gallery.js`: galeri referensi.
 - `data.json`, `images.json`, `images/`: 200 prompt dan gambar contoh.
 - `serve.mjs`: server lokal yang hanya menyajikan berkas website.

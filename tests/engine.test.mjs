@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {dimensions,motionAt,MOTIONS,safeSettings,DEFAULTS,supportedVideoType,presetSettings} from '../engine.mjs';
+import {dimensions,motionAt,MOTIONS,safeSettings,DEFAULTS,supportedVideoType,supportedVideoTypes,presetSettings,videoIsUsable} from '../engine.mjs';
 
 test('output dimensions preserve each social aspect ratio and selected short edge',()=>{
   assert.deepEqual(dimensions('9:16',1080),{width:1080,height:1920});
@@ -35,4 +35,18 @@ test('gallery presets map to actual available photo animations and effects',()=>
   assert.deepEqual(presetSettings('/cyberorbit'),{motion:'orbit',effect:'none'});
   assert.deepEqual(presetSettings('/floatingproduct'),{motion:'float',effect:'none'});
   assert.deepEqual(presetSettings('/filmlook'),{motion:'push',effect:'grain'});
+});
+
+test('runtime fallback retains a WebM option when MP4 is advertised',()=>{
+ const candidates=supportedVideoTypes({isTypeSupported:x=>x==='video/mp4'||x==='video/webm'});
+ assert.deepEqual(candidates.map(x=>x.extension),['mp4','webm']);
+ assert.deepEqual(supportedVideoTypes(null),[]);
+});
+
+test('a one-frame or unreadable recording is rejected before showing a download',()=>{
+ assert.equal(videoIsUsable({width:720,height:900,duration:.033},4),false);
+ assert.equal(videoIsUsable({width:720,height:900,duration:3.99},4),true);
+ assert.equal(videoIsUsable({width:720,height:900,duration:Infinity},4),true);
+ assert.equal(videoIsUsable({width:0,height:0,duration:4},4),false);
+ assert.equal(videoIsUsable({width:720,height:900,duration:NaN},4),false);
 });

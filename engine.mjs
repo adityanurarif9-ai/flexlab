@@ -76,10 +76,10 @@ export function createRenderer(canvas,image,settings){
   }
   return {draw,width:w,height:h};
 }
-export function supportedVideoType(Recorder=globalThis.MediaRecorder){
-  if(!Recorder||typeof Recorder.isTypeSupported!=='function')return null;
+export function supportedVideoTypes(Recorder=globalThis.MediaRecorder){
+  if(!Recorder||typeof Recorder.isTypeSupported!=='function')return [];
   const options=[{mime:'video/mp4;codecs=avc1.42001E,mp4a.40.2',extension:'mp4'},{mime:'video/mp4',extension:'mp4'},{mime:'video/webm;codecs=vp9,opus',extension:'webm'},{mime:'video/webm;codecs=vp8,opus',extension:'webm'},{mime:'video/webm',extension:'webm'}];
-  return options.find(x=>Recorder.isTypeSupported(x.mime))||null;
+  return options.filter(x=>Recorder.isTypeSupported(x.mime));
 }
 export function safeSettings(value){
   const o={...DEFAULTS};if(!value||typeof value!=='object')return o;
@@ -103,4 +103,10 @@ export function presetSettings(code){
   else if(/light|glow|neon|energy|flash|gold/.test(text))effect='light';
   else if(/film|35mm/.test(text))effect='grain';
   return {motion,effect};
+}
+
+export function supportedVideoType(Recorder=globalThis.MediaRecorder){return supportedVideoTypes(Recorder)[0]||null}
+
+export function videoIsUsable({width,height,duration},expectedDuration){
+ return width>0&&height>0&&(duration===Infinity||(Number.isFinite(duration)&&duration>=expectedDuration*.8));
 }

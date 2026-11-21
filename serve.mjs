@@ -5,15 +5,15 @@ import { fileURLToPath } from 'node:url';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const port = Number(process.env.PORT || 4317);
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8', '.json': 'application/json; charset=utf-8', '.jpg': 'image/jpeg', '.png': 'image/png' };
+const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8', '.json': 'application/json; charset=utf-8', '.jpg': 'image/jpeg', '.png': 'image/png', '.svg': 'image/svg+xml' };
 http.createServer((req, res) => {
   let relative;
   try { relative = decodeURIComponent(new URL(req.url, 'http://localhost').pathname); }
   catch { res.writeHead(400).end('Bad request'); return; }
   if (relative.endsWith('/')) relative += 'index.html';
   const file = path.resolve(root, '.' + relative);
-  const allowed = new Set(['index.html', 'style.css', 'app.js', 'data.json', 'images.json', 'engine.mjs', 'gallery.html', 'gallery.css', 'gallery.js']);
-  const within = path.relative(root, file);
+  const allowed = new Set(['index.html', 'style.css', 'app.js', 'data.json', 'images.json', 'engine.mjs', 'gallery.html', 'gallery.css', 'gallery.js', 'brand.css', 'brand.js', 'assets/flexlab-logo.png', 'assets/flexlab-symbol.svg', 'assets/favicon.svg']);
+  const within = path.relative(root, file).split(path.sep).join('/');
   if (!allowed.has(within) && !/^images[\\/][0-9]{3}\.jpg$/.test(within)) {
     res.writeHead(404).end('Not found'); return;
   }
