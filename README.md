@@ -1,66 +1,65 @@
-# FlexLab — Photo Motion Studio
+# FlexLab
 
-Upload foto produk, pilih gerakannya, lalu unduh gambar atau video. Identitas logo FLEXLab dengan palet biru dan grafit, tema terang/gelap, editor responsif, dan galeri 200 prompt sebagai inspirasi. Pilihan tema tersimpan di browser dan konsisten antara studio dan galeri.
+Studio iklan produk dengan tampilan dua sisi: foto dan gaya di kiri, hasil gambar/video di kanan. Logo biru FlexLab, 200 inspirasi gaya, akun username/password dengan verifikasi tautan email, riwayat per akun, dan konektor **ComfyUI lokal**.
 
-## Menjalankan
+## Status versi ini
 
-Gunakan Node.js 18 atau lebih baru. Tidak perlu menginstal dependensi.
+- Backend akun, database SQLite, verifikasi email, login/logout, dan reset password sudah berjalan.
+- Upload foto, pilihan gaya, rasio, arahan tambahan, riwayat, antrean dan unduhan hasil tersambung ke backend.
+- Konektor ComfyUI gambar dan video tersedia. **ComfyUI, model, dan workflow aktif belum dipasang. Tidak ada unduhan model otomatis.**
+- Pembuatan hasil dinonaktifkan sampai mesin dan workflow siap. Gambar galeri hanya inspirasi, tidak pernah digunakan sebagai hasil upload pengguna.
+- SMTP harus diisi agar email benar-benar dikirim. Kotak email lokal hanya untuk pengembangan, bukan verifikasi email sungguhan.
+- Dijalankan di `127.0.0.1`, bukan layanan publik. GitHub Pages tidak dapat menjalankan backend akun atau ComfyUI.
 
-```sh
+## Jalankan dari VS Code
+
+Gunakan **Node.js 24.15 atau lebih baru**. Buka folder `D:\flexlab` di VS Code, pilih **Terminal → New Terminal**, lalu:
+
+```powershell
+npm ci --legacy-peer-deps
 npm start
 ```
 
-Di PowerShell, gunakan `npm.cmd start` jika `npm.ps1` dibatasi. Buka http://127.0.0.1:4317. Hentikan server dengan Ctrl+C. Setelah memperbarui source, mulai ulang server agar daftar berkas baru terbaca.
+Buka alamat yang tercetak, biasanya `http://127.0.0.1:4317`. Jangan menjalankan dengan Live Server, `file://`, atau server statis lama karena akun memerlukan backend ini.
 
-## Fitur studio
+Pustaka dipin di `package-lock.json`. `--legacy-peer-deps` menghindari konflik peer opsional Prisma yang tidak digunakan; backend ini memakai SQLite bawaan Node, bukan Prisma.
 
-- Upload atau drag-and-drop JPG, PNG, dan WebP hingga 20 MB / 50 megapiksel.
-- Sembilan pilihan gerakan foto: push, pull, pan, float, orbit ringan, dynamic hook, tilt, breathing, dan still.
-- Efek partikel, kabut, sapuan cahaya, butiran melayang, dan film grain.
-- Penempatan foto utuh / penuhi frame, latar blur / gradien / warna, serta kecerahan, kontras, dan saturasi.
-- Judul produk, teks pendamping, dan warna teks.
-- Musik lokal hingga 30 MB, pengulangan audio, dan volume ekspor.
-- Rasio 4:5, 9:16, 1:1, dan 16:9; resolusi 720p atau 1080p pada sisi pendek.
-- Durasi 4, 6, 8, atau 12 detik, dengan 24 atau 30 fps.
-- Pratinjau, jeda, scrub timeline, ulang, simpan/muat pengaturan, dan reset.
-- Empat resep gaya; galeri memiliki tombol **Pakai di Studio** untuk memetakan preset ke gerakan/efek foto yang paling mendekati.
+## Coba akun tanpa mengirim email
 
-## Hasil dan batasan
+```powershell
+npm run dev:email
+```
 
-**Gambar:** PNG dari posisi timeline saat ini, dengan teks dan efek yang terlihat, pada resolusi yang dipilih.
+Daftar dari halaman akun, buka **Buka email uji lokal**, klik tautan verifikasi, kemudian login dengan username dan password yang kamu buat. Pesan uji tersimpan di memori sampai server ditutup. **Tidak ada email yang dikirim ke alamat asli.** Gunakan data uji, jangan gunakan mode ini untuk pengguna lain. Mode ini ditolak jika `NODE_ENV=production`.
 
-**Video:** rekaman canvas menggunakan MediaRecorder. MP4 dipilih jika didukung encoder browser, dengan WebM sebagai alternatif. Format yang tersedia ditampilkan sebelum render. Bila encoder pertama gagal atau menghasilkan rekaman kosong, studio mencoba satu format alternatif yang didukung browser. Proses render dapat berlangsung dua kali durasi video bila percobaan ulang diperlukan. Durasi hasil dapat sedikit berbeda sesuai encoder browser. Rekaman kosong, terlalu pendek, atau tidak dapat diputar tidak ditawarkan sebagai unduhan yang selesai. Musik disertakan hanya saat ekspor video. Browser tanpa captureStream atau encoder yang didukung tetap bisa mengekspor PNG.
+Untuk email sungguhan, salin `.env.example` menjadi `.env`, isi `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASS`, dan `SMTP_FROM` sesuai penyedia emailmu, lalu jalankan **`npm start`**. Gunakan password aplikasi jika penyedia mewajibkan. Jangan masukkan rahasia ke kode atau Git. Belum ada penyedia SMTP yang dikonfigurasi atau diuji mengirim email sungguhan di PC ini.
 
-Render video berjalan selama durasi video. Tetap buka tab sampai selesai. Render dibatalkan bila tab disembunyikan, untuk menghindari rekaman yang tersendat. Pengguna juga bisa membatalkan render lewat tombol. Jika perangkat lambat, pilih 720p.
+## AI lokal tanpa biaya API
 
-Ini adalah **animasi foto di browser, bukan video AI generatif**. Foto digerakkan sebagai satu layer dengan efek di atasnya; bentuk produk tidak dibuat ulang, dan orbit ringan tidak menciptakan sisi produk yang tidak terlihat. Tidak semua efek konseptual di 200 prompt galeri dapat direproduksi secara harfiah oleh editor lokal.
+Tidak ada pemanggilan API generatif berbayar. Biaya perangkat, listrik, koneksi, serta ketentuan lisensi model tetap mengikuti perangkat dan model yang dipakai. RTX 3050 Laptop 6 GB perlu workflow hemat VRAM; video dapat sangat lambat atau kehabisan memori. Dukungan tombol Video tidak menjamin semua model video muat di GPU ini.
 
-Foto dan audio tetap di browser, tanpa dikirim ke server. Tidak memerlukan API key atau biaya AI. Pengaturan disimpan di localStorage; foto dan musik tidak ikut disimpan. Font antarmuka dimuat dari Google Fonts dengan font sistem sebagai fallback.
+1. Ketika sudah siap, pasang [ComfyUI dari sumber resmi](https://docs.comfy.org/installation/system_requirements). Unduhan ini **belum dilakukan** oleh proyek.
+2. Pilih model berlisensi sesuai kebutuhan dan kemampuan GPU. Model gambar/video harus dipasang tersendiri; model video umumnya lebih berat. Tidak ada model besar dibundel dalam repo.
+3. Pastikan workflow image-to-image atau image-to-video berhasil di ComfyUI terlebih dahulu.
+4. Ekspor workflow **API format**. Baca [panduan workflow](workflows/README.md), lalu pasang placeholder FlexLab.
+5. Simpan workflow aktif di `.workflows/image.json` dan/atau `.workflows/video.json`.
+6. Jalankan ComfyUI pada `http://127.0.0.1:8188`, jalankan FlexLab, masuk, lalu pilih **Siapkan AI lokal → Periksa koneksi**.
 
-## Galeri referensi
+Workflow yang siap hanya diperiksa format dan ketersediaan nodenya. Validitas model dan kecukupan VRAM ditentukan saat ComfyUI menjalankan workflow. Hasil mengikuti model, prompt, dan pengaturan workflow. Detail logo/label bisa berubah; hasil tidak dijamin sama dengan Google Flow atau contoh galeri.
 
-`gallery.html` memuat 200 preset dalam 20 kategori dengan contoh gambar AI, pencarian, filter, favorit, salin prompt, pembesaran gambar, dan tautan ke studio. Gambar galeri dibuat sebelumnya dengan imagegen. Studio tidak memanggil layanan AI saat digunakan.
+## Penyimpanan dan keamanan lokal
 
-Preset bersumber dari [200 Cheat Codes Google Flow — Product Photo to Video](https://docs.google.com/document/d/1W6mzywRB_HtO_sjhVi9zdpk2ch2iZQymkqTeKEOUses/edit). Kode singkat tersebut bukan perintah resmi bawaan Google Flow.
+`.flexlab/` menyimpan database akun, kunci autentikasi, sesi, dan hasil. `.workflows/` menyimpan workflow aktif. Kedua folder serta `.env` diabaikan Git. Cadangkan `.flexlab/` secara privat; jangan hapus `auth-secret` saat akun sudah digunakan. Password di-hash oleh Better Auth, sesi memakai cookie HTTP-only, dan email harus diverifikasi sebelum masuk. Hasil dan riwayat dibatasi berdasarkan pemilik akun. Endpoint ComfyUI hanya menerima alamat localhost.
 
-## Pengujian
+Ini konfigurasi satu PC, bukan deployment internet. Membuka server ke jaringan memerlukan HTTPS, konfigurasi origin, layanan email, perlindungan jaringan ComfyUI, pencadangan, serta peninjauan deployment tersendiri. Jangan mengubah bind loopback untuk membagikan aplikasi begitu saja. Mode email uji mengekspos tautan akun uji kepada pengguna PC ini.
 
-```sh
+`app.js`, `engine.mjs`, dan `style.css` lama masih disimpan sebagai referensi versi animasi foto, tetapi halaman utama baru tidak memuatnya. Server tidak menyajikan berkas backend, database, rahasia, atau workflow aktif.
+
+## Pemeriksaan
+
+```powershell
 npm run check
 npm test
 ```
 
-Pengujian otomatis memeriksa dimensi output, batas gerakan, intensitas nol, pengaturan tersimpan, pemilihan format video, pemetaan preset, dan penolakan rekaman satu frame atau terlalu pendek. Pengujian browser juga dilakukan untuk upload, unduhan PNG dan MP4, musik, Full HD, pembatalan, simpan/muat pengaturan, serta layout HP dan desktop.
-
-## Struktur
-
-- `index.html`, `style.css`, `app.js`: studio dan interaksi.
-- `engine.mjs`: komposisi canvas, gerakan, efek, dan validasi pengaturan.
-- `brand.css`, `brand.js`: identitas biru/grafit dan pilihan tema terang/gelap.
-- `assets/`: logo PNG asli dari pemilik proyek serta tampilan simbol dan favicon berbasis logo tersebut.
-- `gallery.html`, `gallery.css`, `gallery.js`: galeri referensi.
-- `data.json`, `images.json`, `images/`: 200 prompt dan gambar contoh.
-- `serve.mjs`: server lokal yang hanya menyajikan berkas website.
-- `tests/engine.test.mjs`: pengujian logika animasi dan ekspor.
-
-Semua berkas frontend dapat dihosting statis dari root repositori. Gunakan HTTP/HTTPS, bukan membuka index.html melalui file://.
+Tes backend memakai SQLite sementara, email tangkapan untuk pengujian, dan mesin ComfyUI palsu **khusus tes**, untuk memeriksa verifikasi email, login/password salah, reset token satu kali, logout, isolasi hasil antarakun, penolakan lintas situs, pembatasan berkas privat, validasi workflow, serta kondisi AI offline. Tes bukan bukti kualitas generasi AI; model lokal belum dijalankan. Tes engine browser lama tetap tersedia sebagai regresi.

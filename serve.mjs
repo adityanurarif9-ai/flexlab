@@ -1,25 +1,12 @@
-import http from 'node:http';
-import fs from 'node:fs';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-
-const root = path.dirname(fileURLToPath(import.meta.url));
-const port = Number(process.env.PORT || 4317);
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8', '.json': 'application/json; charset=utf-8', '.jpg': 'image/jpeg', '.png': 'image/png', '.svg': 'image/svg+xml' };
-http.createServer((req, res) => {
-  let relative;
-  try { relative = decodeURIComponent(new URL(req.url, 'http://localhost').pathname); }
-  catch { res.writeHead(400).end('Bad request'); return; }
-  if (relative.endsWith('/')) relative += 'index.html';
-  const file = path.resolve(root, '.' + relative);
-  const allowed = new Set(['index.html', 'style.css', 'app.js', 'data.json', 'images.json', 'engine.mjs', 'gallery.html', 'gallery.css', 'gallery.js', 'brand.css', 'brand.js', 'assets/flexlab-logo.png', 'assets/flexlab-symbol.svg', 'assets/favicon.svg']);
-  const within = path.relative(root, file).split(path.sep).join('/');
-  if (!allowed.has(within) && !/^images[\\/][0-9]{3}\.jpg$/.test(within)) {
-    res.writeHead(404).end('Not found'); return;
-  }
-  fs.readFile(file, (error, bytes) => {
-    if (error) { res.writeHead(404).end('Not found'); return; }
-    res.writeHead(200, { 'content-type': types[path.extname(file)] || 'application/octet-stream' });
-    res.end(bytes);
-  });
-}).listen(port, '127.0.0.1', () => console.log(`FlexLab: http://127.0.0.1:${port}`));
+import {fileURLToPath} from 'node:url';
+import {startFlexLab} from './server/server.mjs';
+const root=path.dirname(fileURLToPath(import.meta.url));
+try{process.loadEnvFile(path.join(root,'.env'))}catch(error){if(error.code!=='ENOENT')throw error}
+const app=await startFlexLab({root});
+console.log(`FlexLab: ${app.url}`);
+console.log('AI lokal memakai ComfyUI terpisah. Tidak ada model yang diunduh otomatis.');
+if(process.env.FLEXLAB_DEV_MAILBOX==='1')console.log(`EMAIL UJI LOKAL, TIDAK DIKIRIM: ${app.url}/dev-mail.html`);
+else if(!process.env.SMTP_HOST)console.log('Email belum aktif. Isi .env untuk SMTP, atau gunakan npm run dev:email untuk uji lokal.');
+let closing=false;async function stop(){if(closing)return;closing=true;await app.close();process.exit(0)}
+process.on('SIGINT',stop);process.on('SIGTERM',stop);

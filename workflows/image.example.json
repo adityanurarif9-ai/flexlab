@@ -1,0 +1,11 @@
+{
+  "1":{"class_type":"CheckpointLoaderSimple","inputs":{"ckpt_name":"GANTI_DENGAN_MODEL_YANG_SUDAH_DIPASANG.safetensors"}},
+  "2":{"class_type":"LoadImage","inputs":{"image":"{{FLEXLAB_IMAGE}}"}},
+  "3":{"class_type":"ImageScale","inputs":{"image":["2",0],"upscale_method":"lanczos","width":"{{FLEXLAB_WIDTH}}","height":"{{FLEXLAB_HEIGHT}}","crop":"center"}},
+  "4":{"class_type":"CLIPTextEncode","inputs":{"text":"{{FLEXLAB_PROMPT}}","clip":["1",1]}},
+  "5":{"class_type":"CLIPTextEncode","inputs":{"text":"{{FLEXLAB_NEGATIVE}}","clip":["1",1]}},
+  "6":{"class_type":"VAEEncode","inputs":{"pixels":["3",0],"vae":["1",2]}},
+  "7":{"class_type":"KSampler","inputs":{"model":["1",0],"positive":["4",0],"negative":["5",0],"latent_image":["6",0],"seed":"{{FLEXLAB_SEED}}","steps":20,"cfg":6,"sampler_name":"euler","scheduler":"normal","denoise":0.45}},
+  "8":{"class_type":"VAEDecode","inputs":{"samples":["7",0],"vae":["1",2]}},
+  "9":{"class_type":"SaveImage","inputs":{"images":["8",0],"filename_prefix":"FlexLab"}}
+}

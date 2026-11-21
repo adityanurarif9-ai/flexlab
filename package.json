@@ -1,12 +1,20 @@
 {
   "name": "flexlab",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
-  "description": "Studio foto-ke-gambar dan video langsung di browser, dengan galeri 200 prompt produk.",
+  "description": "Studio iklan produk dengan akun terverifikasi dan konektor AI lokal ComfyUI.",
   "scripts": {
     "start": "node serve.mjs",
-    "check": "node --check app.js && node --check engine.mjs && node --check gallery.js && node --check brand.js && node --check serve.mjs",
-    "test": "node --test tests/*.test.mjs"
+    "check": "node --check workspace.js && node --check account.js && node --check server/auth.mjs && node --check server/comfy.mjs && node --check server/server.mjs && node --check serve.mjs && node --check gallery.js",
+    "test": "node --test tests/*.test.mjs",
+    "dev:email": "node scripts/dev-email.mjs"
+  },
+  "dependencies": {
+    "better-auth": "1.7.27",
+    "nodemailer": "10.6.1"
+  },
+  "engines": {
+    "node": ">=24.15.0"
   }
 }
